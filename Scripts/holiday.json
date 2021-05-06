@@ -1,0 +1,275 @@
+//Type:2:节日 3：调休
+[
+  {
+    "Year": "2021",
+    "HolidayDetails": [
+      {
+        "Date": "0101",
+        "Type": 2,
+        "Target": "",
+        "Name": "元旦",
+        "Wage": 3
+      },
+      {
+        "Date": "0102",
+        "Type": 2,
+        "Target": "",
+        "Name": "元旦",
+        "Wage": 3
+      },
+      {
+        "Date": "0103",
+        "Type": 2,
+        "Target": "",
+        "Name": "元旦",
+        "Wage": 3
+      },
+      {
+        "Date": "0207",
+        "Type": 4,
+        "Target": "春节",
+        "Name": "春节前调休",
+        "Wage": 1
+      },
+      {
+        "Date": "0211",
+        "Type": 3,
+        "Target": "",
+        "Name": "春节",
+        "Wage": 3
+      },
+      {
+        "Date": "0212",
+        "Type": 3,
+        "Target": "",
+        "Name": "春节",
+        "Wage": 3
+      },
+      {
+        "Date": "0213",
+        "Type": 3,
+        "Target": "",
+        "Name": "春节",
+        "Wage": 3
+      },
+      {
+        "Date": "0214",
+        "Type": 3,
+        "Target": "",
+        "Name": "春节",
+        "Wage": 1
+      },
+      {
+        "Date": "0215",
+        "Type": 3,
+        "Target": "",
+        "Name": "春节",
+        "Wage": 1
+      },
+      {
+        "Date": "0216",
+        "Type": 3,
+        "Target": "",
+        "Name": "春节",
+        "Wage": 1
+      },
+      {
+        "Date": "0217",
+        "Type": 3,
+        "Target": "",
+        "Name": "春节",
+        "Wage": 1
+      },
+      {
+        "Date": "0220",
+        "Type": 4,
+        "Target": "春节",
+        "Name": "春节后调休",
+        "Wage": 1
+      },
+      {
+        "Date": "0403",
+        "Type": 3,
+        "Target": "",
+        "Name": "清明",
+        "Wage": 1
+      },
+      {
+        "Date": "0404",
+        "Type": 3,
+        "Target": "",
+        "Name": "清明",
+        "Wage": 1
+      },
+      {
+        "Date": "0405",
+        "Type": 3,
+        "Target": "",
+        "Name": "清明",
+        "Wage": 1
+      },
+      {
+        "Date": "0425",
+        "Type": 4,
+        "Target": "劳动节",
+        "Name": "劳动节前调休",
+        "Wage": 1
+      },
+      {
+        "Date": "0501",
+        "Type": 3,
+        "Target": "",
+        "Name": "劳动节",
+        "Wage": 1
+      },
+      {
+        "Date": "0502",
+        "Type": 3,
+        "Target": "",
+        "Name": "劳动节",
+        "Wage": 1
+      },
+      {
+        "Date": "0503",
+        "Type": 3,
+        "Target": "",
+        "Name": "劳动节",
+        "Wage": 1
+      },
+      {
+        "Date": "0504",
+        "Type": 3,
+        "Target": "",
+        "Name": "劳动节",
+        "Wage": 1
+      },
+      {
+        "Date": "0505",
+        "Type": 3,
+        "Target": "",
+        "Name": "劳动节",
+        "Wage": 1
+      },
+      {
+        "Date": "0508",
+        "Type": 4,
+        "Target": "劳动节",
+        "Name": "劳动节后调休",
+        "Wage": 1
+      },
+      {
+        "Date": "0612",
+        "Type": 3,
+        "Target": "",
+        "Name": "端午节",
+        "Wage": 1
+      },
+      {
+        "Date": "0613",
+        "Type": 3,
+        "Target": "",
+        "Name": "端午节",
+        "Wage": 1
+      },
+      {
+        "Date": "0614",
+        "Type": 3,
+        "Target": "",
+        "Name": "端午节",
+        "Wage": 1
+      },
+      {
+        "Date": "0918",
+        "Type": 4,
+        "Target": "中秋节",
+        "Name": "中秋节前调休",
+        "Wage": 1
+      },
+      {
+        "Date": "0919",
+        "Type": 3,
+        "Target": "",
+        "Name": "中秋节",
+        "Wage": 1
+      },
+      {
+        "Date": "0920",
+        "Type": 3,
+        "Target": "",
+        "Name": "中秋节",
+        "Wage": 1
+      },
+      {
+        "Date": "0921",
+        "Type": 3,
+        "Target": "",
+        "Name": "中秋节",
+        "Wage": 1
+      },
+      {
+        "Date": "0926",
+        "Type": 4,
+        "Target": "国庆节",
+        "Name": "国庆节前调休",
+        "Wage": 1
+      },
+      {
+        "Date": "1001",
+        "Type": 3,
+        "Target": "",
+        "Name": "国庆节",
+        "Wage": 1
+      },
+      {
+        "Date": "1002",
+        "Type": 3,
+        "Target": "",
+        "Name": "国庆节",
+        "Wage": 1
+      },
+      {
+        "Date": "1003",
+        "Type": 3,
+        "Target": "",
+        "Name": "国庆节",
+        "Wage": 1
+      },
+      {
+        "Date": "1004",
+        "Type": 3,
+        "Target": "",
+        "Name": "国庆节",
+        "Wage": 1
+      },
+      {
+        "Date": "1005",
+        "Type": 3,
+        "Target": "",
+        "Name": "国庆节",
+        "Wage": 1
+      },
+      {
+        "Date": "1006",
+        "Type": 3,
+        "Target": "",
+        "Name": "国庆节",
+        "Wage": 1
+      },
+      {
+        "Date": "1007",
+        "Type": 3,
+        "Target": "",
+        "Name": "国庆节",
+        "Wage": 1
+      },
+      {
+        "Date": "1009",
+        "Type": 4,
+        "Target": "国庆节",
+        "Name": "国庆节后调休",
+        "Wage": 1
+      }
+    ]
+  }
+]
+
